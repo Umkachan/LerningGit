@@ -2,9 +2,7 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("H2")
-
-
-
+        Console.WriteLine("Hello")
+        Console.WriteLine("NOOOO")
     End Sub
 End Module
